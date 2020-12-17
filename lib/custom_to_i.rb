@@ -1,5 +1,5 @@
 module CustomToI
   def to_i
-    "called"
+    "##{self} called"
   end
 end
